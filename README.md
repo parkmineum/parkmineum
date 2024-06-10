@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdma4428)](https://solved.ac/alsdma4428)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=alsdma4428&theme=dark)
+
 
