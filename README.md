@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
  
 
-<!--[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdma4428)](https://solved.ac/alsdma4428)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
+
 
 
 
