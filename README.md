@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<br><br>
+
 
 ## Awards
 
@@ -29,9 +31,11 @@ Here are some ideas to get you started:
 |Date|Awards|
 |:-:|:-:|
 |2024.10|ACM-ICPC 프로그래밍 대회 금상|
-|2024.10|GGUM 교내 연합 해커톤 금상|
+|2024.10|GGUM 교내 연합 해커톤 우수상|
 
 </div>
+
+<br>
 
 
 ### Activities
