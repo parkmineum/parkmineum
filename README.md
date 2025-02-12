@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
 
 
-<br> 
-
 ### About Me
 
 <h3 align="center">🏫Univ🏫</h3>
@@ -12,7 +10,6 @@
   Computer Science Information Engineering
 </p>
 
-<br/>
 
 <br>
 
@@ -43,7 +40,7 @@
 
 </div>
 
-<br><br><br>
+<br><br>
 
 ### Github Stacks
 
