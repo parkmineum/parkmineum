@@ -1,18 +1,18 @@
 
-<!--
-**parkmineum/parkmineum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> 
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🏫Univ🏫</h3>
+<p align="center">
+  <i>Catholic University of Korea</i>
+  <br/>
+  💻Computer Science Information Engineering💻
+</p>
+
+<br/>
+
+<br><br><br>
 
 <div align=center>
 
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-|Date|Awards|
-|:-:|:-:|
-|2024.10|ACM-ICPC 프로그래밍 대회 금상|
-|2024.10|GGUM 교내 연합 해커톤 우수상|
+|Date||||Awards|
+|:-:|:-:|:-:|
+|2024.10|||ACM-ICPC 프로그래밍 대회 금상|
+|2024.10|||GGUM 교내 연합 해커톤 우수상|
 
 </div>
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-|기간|활동|역할|
+|Date|Organization|Role|
 |:-:|:-:|:-:|
 |2025.02 ~ 2025.08 |GDSC CUK 4th|운영진(Tech Team)|
 |2025.02 ~ 2025.08|UMC CUK 8th|Spring 파트장|
