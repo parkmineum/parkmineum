@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
 
 <div align=center>
+  
 ### ✨ About Me ✨
+
 <h3 align="center">🏫Univ🏫</h3>
 <p align="center">
   <i>Catholic University of Korea</i>
@@ -28,6 +30,7 @@
 
 
 <div align=center>
+  
 ### ✨ Activities ✨
   
 |Date|Organization|Role|
@@ -44,6 +47,7 @@
 <br><br>
 
 <div align=center>
+  
 ### Github Stacks 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
