@@ -12,10 +12,7 @@
 
 <br/>
 
-<br><br>
-
-<br><br>
-
+<br>
 
 ## Awards
 
@@ -44,7 +41,7 @@
 
 </div>
 
-<br>
+<br><br><br>
 
 <div align=center>
 
