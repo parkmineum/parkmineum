@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 |기간|활동|역할|
 |:-:|:-:|:-:|
-|2024.12 ~ |GDGoC(GDG on Campus) CUK 4기|운영진(Organizer)|
-|2024.09 ~ |IT 연합 프로젝트 동아리 UMC 7기|CUK SpringBoot 스터디장|
-|2024.07 ~ 2024.12|GDGoC(GDG on Campus) CUK 3기|운영진(Tech팀), AWS 스터디장|
-|2024.03 ~ 2024.08|IT 연합 프로젝트 동아리 UMC 6기|CUK Node.js 스터디원|
+|2025.02 ~ 2025.08 |GDSC CUK 4th|운영진(Tech Team)|
+|2025.02 ~ 2025.08|UMC CUK 8th|Spring 파트장|
+|2024.09 ~ 2024.12|UMC CUK 7th|Node.js 파트장|
+|2024.03 ~ 2024.08|UMC CUK 6th|Node.js 스터디장|
 
