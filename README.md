@@ -2,7 +2,6 @@
 
 <div align=center>
   
-### ✨ About Me ✨
 
 <h3 align="center">🏫Univ🏫</h3>
 <p align="center">
