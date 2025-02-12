@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
 
 
-### About Me
+### About Me ✨
 
 <h3 align="center">🏫Univ🏫</h3>
 <p align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-### Awards
+### Awards ✨
 
 <div align=center>
 
@@ -27,7 +27,7 @@
 <br>
 
 
-### Activities
+### Activities ✨
 
 <div align=center>
 
@@ -37,14 +37,14 @@
 |2025.02 ~ 2025.08|UMC CUK 8th|Spring 파트장|
 |2024.09 ~ 2024.12|UMC CUK 7th|Node.js 파트장|
 |2024.03 ~ 2024.08|UMC CUK 6th|Node.js 스터디장|
-|2023.12 ~ 2024.12|ALCUK(교내 알고리즘 동아리)|멤버|
+|2023.12 ~ 2024.12|ALCUK(교내 알고리즘 동아리)|Member|
 
 
 </div>
 
 <br><br>
 
-### Github Stacks
+### Github Stacks ✨
 
 <div align=center>
 
