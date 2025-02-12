@@ -7,7 +7,7 @@
 <p align="center">
   <i>Catholic University of Korea</i>
   <br/>
-  💻Computer Science Information Engineering💻
+  Computer Science Information Engineering
 </p>
 
 <br/>
@@ -28,10 +28,10 @@
 
 <div align=center>
 
-|Date||||Awards|
-|:-:|:-:|:-:|
-|2024.10|||ACM-ICPC 프로그래밍 대회 금상|
-|2024.10|||GGUM 교내 연합 해커톤 우수상|
+|Date|Awards|
+|:-:|:-:|
+|2024.10|ACM-ICPC 프로그래밍 대회 금상|
+|2024.10|GGUM 교내 연합 해커톤 우수상|
 
 </div>
 
