@@ -14,7 +14,9 @@
 <br>
 
 <div align=center>
+  
 ### ✨ Awards ✨
+  
 |Date|Awards|
 |:-:|:-:|
 |2024.10|ACM-ICPC 프로그래밍 대회 금상|
