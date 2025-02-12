@@ -12,14 +12,7 @@
 
 <br/>
 
-<br><br><br>
-
-<div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmineum&theme=radical&layout=compact&hide=python)
-
-</div>
+<br><br>
 
 <br><br>
 
@@ -50,3 +43,13 @@
 |2024.03 ~ 2024.08|UMC CUK 6th|Node.js 스터디장|
 
 </div>
+
+<br>
+
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmineum&theme=radical&layout=compact&hide=python)
+
+</div>
+
