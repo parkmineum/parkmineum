@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
+
 
 <br> 
 
@@ -14,7 +16,7 @@
 
 <br>
 
-## Awards
+### Awards
 
 <div align=center>
 
@@ -42,6 +44,8 @@
 </div>
 
 <br><br><br>
+
+### Github Stacks
 
 <div align=center>
 
