@@ -35,9 +35,8 @@
 |Date|Organization|Role|
 |:-:|:-:|:-:|
 |2025.02 ~ 2025.08 |GDSC CUK 4th|운영진(Tech Team)|
-|2025.02 ~ 2025.08|UMC CUK 8th|Spring 파트장|
-|2024.09 ~ 2024.12|UMC CUK 7th|Node.js 파트장|
-|2024.03 ~ 2024.08|UMC CUK 6th|Node.js 스터디장|
+|2024.09 ~ 2025.08|UMC CUK 7th, 8th|Server 파트장|
+|2024.03 ~ 2024.08|UMC CUK 6th|Server Challenger|
 |2023.12 ~ 2024.12|ALCUK(교내 알고리즘 동아리)|Member|
 
 
