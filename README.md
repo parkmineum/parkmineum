@@ -16,7 +16,7 @@
 
 <div align=center>
   
-### ✨ Awards ✨
+###  Awards 
   
 |Date|Awards|
 |:-:|:-:|
@@ -30,7 +30,7 @@
 
 <div align=center>
   
-### ✨ Activities ✨
+###  Activities 
   
 |Date|Organization|Role|
 |:-:|:-:|:-:|
@@ -46,7 +46,7 @@
 
 <div align=center>
   
-### 🔥 Github Stacks 🔥
+###  Github Stacks 
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
