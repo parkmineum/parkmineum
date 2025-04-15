@@ -1,34 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
-
-<div align=center>
-  
-
-<h3 align="center">🏫Univ🏫</h3>
-<p align="center">
-  <i>Catholic University of Korea</i>
-  <br/>
-  Computer Science Information Engineering
-</p>
-</div>
 
 
-<br>
-
-<div align=center>
-  
-###  Awards 
-  
-|Date|Awards|
-|:-:|:-:|
-|2024.10|ACM-ICPC 프로그래밍 대회 금상|
-|2024.10|교내 연합 동아리 해커톤 우수상|
-
-</div>
-
-<br>
+🏫 Univ
+Catholic University of Korea 
+Computer Science Information Engineering
 
 
-<div align=center>
+🥇 Awards 
+ACM-ICPC 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
+교내 연합 동아리 해커톤 우수상 <sub><sup>2024.10</sup></sub>
+
+
   
 ###  Activities 
   
