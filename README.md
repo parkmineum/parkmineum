@@ -1,12 +1,8 @@
 
-
-<br>
-
 ### 🥇 Awards 
 - ACM-ICPC 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
 - 교내 연합 동아리 해커톤 우수상 <sub><sup>2024.10</sup></sub>
 
-<br>
 <br>
   
 ### 👨🏻‍💻 Activities 
@@ -17,7 +13,6 @@
 - 교내 알고리즘 동아리 ALCUK <sub><sup>2023.12 ~ 2024.12</sup></sub>
 - 가톨릭대학교 컴퓨터정보공학부 <sub><sup>2020.03 ~ </sup></sub>
 
-<br>
 <br>
 
 
