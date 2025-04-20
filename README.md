@@ -11,7 +11,7 @@
 
 
 ### 🥇 Awards 
-- ACM-ICPC 예선 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
+- ACM-ICPC 예선 프로그래밍 대회 교내 금상 <sub><sup>2024.10</sup></sub>
 - 교내 연합 동아리 해커톤 우수상 <sub><sup>2024.10</sup></sub>
 
 <br>
