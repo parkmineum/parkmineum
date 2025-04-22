@@ -1,8 +1,8 @@
   
 ### 👨🏻‍💻 Activities 
   
-- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ ing</sup></sub>
-- UMC CUK 7th, 8th Server 파트장  <sub><sup>2024.08 ~ ing</sup></sub>
+- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ </sup></sub>
+- UMC CUK 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
 - UMC CUK 6th Server 챌린저 <sub><sup>2024.03 ~ 2024.08</sup></sub>
 - 가톨릭대 알고리즘 동아리 ALCUK <sub><sup>2023.12 ~ 2024.12</sup></sub>
 - 가톨릭대 컴퓨터정보공학부 <sub><sup>2020.03 ~ </sup></sub>
