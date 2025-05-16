@@ -1,5 +1,5 @@
   
-### 👨🏻‍💻 Activities 
+<!--### 👨🏻‍💻 Activities
 
 - UMC CUK 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
 - ACM-ICPC 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
@@ -19,7 +19,7 @@
 <br>
 
 
-### 🗄️ Tech Stacks
+<!--### 🗄️ Tech Stacks-->
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -43,7 +43,7 @@
 
 <div>
   
-### 🪐 Github Stacks 
+<!--### 🪐 Github Stacks-->
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=radical)
