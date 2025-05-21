@@ -1,8 +1,8 @@
 
 ### 👨🏻‍💻 Activities
 
-- UMC CUK 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
-- ACM-ICPC 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
+- UMC CUK 7th, 8th Server Lead  <sub><sup>2024.08 ~ </sup></sub>
+- ACM-ICPC 알고리즘 대회 금상 <sub><sup>2024.10</sup></sub>
 
   
 <!--- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ </sup></sub>
