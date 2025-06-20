@@ -1,8 +1,9 @@
 
 ### 👨🏻‍💻 Activities
 
-- UMC CUK 7th, 8th Server Lead  <sub><sup>2024.08 ~ </sup></sub>
-- ACM-ICPC 알고리즘 대회 금상 <sub><sup>2024.10</sup></sub>
+- [University MakeUs Challenge](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
+- [GDG](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus) 4th Tech Team <sub><sup>2025.02 ~ </sup></sub>
+- ACM-ICPC Seoul Regional (예선) 교내 금상 <sub><sup>2024.10</sup></sub>
 
   
 <!--- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ </sup></sub>
