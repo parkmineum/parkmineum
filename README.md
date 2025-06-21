@@ -3,6 +3,10 @@
 
 - [[University MakeUs Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
 - [[Google Developer Groups on Campus]](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus) 4th Tech Team <sub><sup>2025.02 ~ 2025.06</sup></sub>
+
+<br>
+
+### 🥇 Awards
 - [ACM-ICPC Seoul Regional](https://icpckorea.org/) (예선) 교내 금상 <sub><sup>2024.10</sup></sub>
 
   
