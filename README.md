@@ -1,13 +1,13 @@
 
 ### 👨🏻‍💻 Activities
 
-- [[University MakeUs Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
+- [[University Make-Us Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
 - [[Google Developer Groups on Campus]](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus) 4th Tech Team <sub><sup>2025.02 ~ 2025.06</sup></sub>
 - [[교내 알고리즘 동아리 - ALCUK]](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
 
 ### 🥇 Awards
-- [ACM-ICPC Seoul Regional](https://icpckorea.org/) (예선) 교내 금상 <sub><sup>2024.10</sup></sub>
+- 교내 프로그래밍 대회 금상 (ACM-ICPC Seoul Regional 예선)  
 
   
 <!--- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ </sup></sub>
