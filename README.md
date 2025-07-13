@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 Activities
 
-- [[University Make-Us Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
+- [[University MakeUs Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
 - [[교내 알고리즘 동아리 - ALCUK]](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
 
