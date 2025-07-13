@@ -2,7 +2,6 @@
 ### 👨🏻‍💻 Activities
 
 - [[University Make-Us Challenge]](https://umc.makeus.in/) 7th, 8th Server Part Lead  <sub><sup>2024.08 ~ </sup></sub>
-- [[Google Developer Groups on Campus]](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus) 4th Tech Managemet Team <sub><sup>2025.02 ~ 2025.06</sup></sub>
 - [[교내 알고리즘 동아리 - ALCUK]](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
 
