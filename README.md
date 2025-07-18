@@ -39,6 +39,13 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 
+  <br>
+  
+  <img src="https://img.shields.io/badge/jmeter-D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white">
+
+
   
 </div>
 
