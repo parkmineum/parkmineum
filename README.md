@@ -1,9 +1,9 @@
 
 ### 👨🏻‍💻 Activities
 
-- [[Depromeet - 디프만]](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
-- [[MakeUs Challenge]](https://umc.makeus.in/) 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
-- [[교내 알고리즘 동아리 - ALCUK]](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
+- [Depromeet - 디프만](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
+- [MakeUs Challenge](https://umc.makeus.in/) 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
+- [교내 알고리즘 동아리 - ALCUK](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
 
 ### 🥇 Awards
@@ -25,7 +25,7 @@
 <br>
 
 
-<!--### 🗄️ Tech Stacks-->
+<!--### 🗄️ Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -43,7 +43,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"> -->
 
 
   
