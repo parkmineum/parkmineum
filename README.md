@@ -9,17 +9,13 @@
 ### 🥇 Awards
 - 교내 프로그래밍 대회 금상 (ACM-ICPC Seoul Regional 예선)  
 
+
+### Posts
+- [Blue-Green 무중단 배포 전략으로 운영 환경에서의 다운 타임 줄이기](https://generated-bush-cff.notion.site/Blue-Green-20c303e25222809185eee17cabc246dd?source=copy_link)
+- [RPS에 따른 서비스 진입점 부하 테스트 with Grafana](https://generated-bush-cff.notion.site/RPS-K6-with-Grafana-23a303e2522280118869f507e9ef3697?source=copy_link)
+- [부하 테스트에 기반한 DB 성능 최적화](https://generated-bush-cff.notion.site/DB-24b303e2522280c8be97c19f9b67407f?source=copy_link)
+
   
-<!--- GDG CUK 4th Tech Team  <sub><sup>2025.02 ~ </sup></sub>
-- UMC CUK 7th, 8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
-- UMC CUK 6th Server 챌린저 <sub><sup>2024.03 ~ 2024.08</sup></sub>
-- 교내 알고리즘 동아리 ALCUK <sub><sup>2023.12 ~ 2024.12</sup></sub>
-<!-- - 가톨릭대 컴퓨터정보공학부 <sub><sup>2020.03 ~ </sup></sub> -->
-
-
-<!--### 🥇 Awards
-- ACM-ICPC 프로그래밍 대회 금상 <sub><sup>2024.10</sup></sub>
-- 교내 연합 동아리 해커톤 우수상 <sub><sup>2024.10</sup></sub> --> 
 
 <br>
 <br>
