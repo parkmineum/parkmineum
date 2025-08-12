@@ -11,7 +11,7 @@
 
 <br>
 
-### 🔖 Posts
+### 🔖 Posts(Notion)
 - [통합 테스트로 비교해본 5가지 동시성 제어 전략](https://generated-bush-cff.notion.site/1e0303e2522281a490b6e11a4cf9d24b?source=copy_link)
 - [Blue-Green 무중단 배포 전략으로 운영 환경에서의 다운 타임 줄이기](https://generated-bush-cff.notion.site/Blue-Green-20c303e25222809185eee17cabc246dd?source=copy_link)
 - [RPS 에 따른 서비스 진입점 부하 테스트 (with Grafana)](https://generated-bush-cff.notion.site/RPS-K6-with-Grafana-23a303e2522280118869f507e9ef3697?source=copy_link)
