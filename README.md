@@ -1,14 +1,14 @@
 
 ### 👨🏻‍💻 Activities
 
-- [depromeet - 디프만](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
+- [depromeet](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
 - [University Make-Us Challenge](https://umc.makeus.in/) 7th~8th Server 파트장  <sub><sup>2024.08 ~ </sup></sub>
 - [교내 알고리즘 동아리 - ALCUK](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
 <br>
 
 ### 🥇 Awards
-- 교내 알고리즘 대회 금상 (ACM-ICPC Seoul Regional 예선)
+- 교내 알고리즘 대회 금상 
 
 <br>
 
