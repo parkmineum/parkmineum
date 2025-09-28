@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 Activities
 
-- [depromeet - 디프만](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
+- [디프만 - depromeet](https://www.depromeet.com) 17th Server Developer <sub><sup>2025.08 ~ </sup></sub>
 - [University MakeUs Challenge](https://umc.makeus.in/) 7th~8th Server Lead  <sub><sup>2024.08 ~ </sup></sub>
 - [교내 알고리즘 동아리 - ALCUK](https://alcuk.co.kr) 8th Member <sub><sup>2023.12 ~ 2024.12</sup></sub>
 
