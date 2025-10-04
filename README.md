@@ -13,12 +13,11 @@
 <br>
 
 ### 🔖 Posts(Notion)
-- [통합 테스트로 비교해 본 5가지 동시성 제어 전략](https://generated-bush-cff.notion.site/1e0303e2522281a490b6e11a4cf9d24b?source=copy_link)
+- [5가지 동시성 제어 전략 비교해보기](https://generated-bush-cff.notion.site/1e0303e2522281a490b6e11a4cf9d24b?source=copy_link)
 - [RPS 에 따른 서비스 진입점 부하 테스트 (with Grafana)](https://generated-bush-cff.notion.site/RPS-K6-with-Grafana-23a303e2522280118869f507e9ef3697?source=copy_link)
 - [부하 테스트에 기반한 병목 지점 파악 및 DB 성능 최적화](https://generated-bush-cff.notion.site/DB-24b303e2522280c8be97c19f9b67407f?source=copy_link)
 - [Blue-Green 무중단 배포 전략으로 운영 환경에서의 다운 타임 줄이기](https://generated-bush-cff.notion.site/Blue-Green-20c303e25222809185eee17cabc246dd?source=copy_link)
-- [운영 중 발생한 동시성 이슈 관련 장애 대응 및 검증](https://generated-bush-cff.notion.site/FCM-Token-Race-Condition-280303e2522280ac83e4ea3a55fea074?source=copy_link)
-
+- [운영 중 동시성 이슈 관련 장애 대응 및 검증](https://generated-bush-cff.notion.site/FCM-Token-Race-Condition-280303e2522280ac83e4ea3a55fea074?source=copy_link)
   
 
 <br>
