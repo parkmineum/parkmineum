@@ -55,7 +55,7 @@
 <!--### 🪐 Github Stacks-->
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmineum&show_icons=true&theme=Omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmineum&theme=dracula&layout=compact&hide=python)
 
 </div>
